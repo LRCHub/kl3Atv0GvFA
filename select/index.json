@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Dead END",
+  "base_artist": "Faylan",
+  "createdAt": "2026-03-16T12:59:31.789431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dead End",
+      "artist": "You Love Her Coz She's Dead",
+      "has_synced": true,
+      "path": "select/01_Dead_End_You_Love_Her_Coz_She's_Dead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead End Alley",
+      "artist": "Mr. Fingers",
+      "has_synced": true,
+      "path": "select/02_Dead_End_Alley_Mr._Fingers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Towards Dead End",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/03_Towards_Dead_End_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dead End",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/04_Dead_End_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear Dead End",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/05_Dear_Dead_End_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dead End Girl",
+      "artist": "Heavens",
+      "has_synced": false,
+      "path": "select/06_Dead_End_Girl_Heavens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dead End",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/07_Dead_End_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dead End Justice",
+      "artist": "The Runaways",
+      "has_synced": true,
+      "path": "select/08_Dead_End_Justice_The_Runaways.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dead End Kids",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/09_Dead_End_Kids_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dead End Kids (New Mix)",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/10_Dead_End_Kids_(New_Mix)_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Dead End - For Another Dead Man",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/11_Another_Dead_End_-_For_Another_Dead_Man_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Another Dead End",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/12_Another_Dead_End_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Towards Dead End",
+      "artist": "Children Of Bodom",
+      "has_synced": true,
+      "path": "select/13_Towards_Dead_End_Children_Of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Towards Dead End",
+      "artist": "Children Of Bodom",
+      "has_synced": true,
+      "path": "select/14_Towards_Dead_End_Children_Of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead End Job",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/15_Dead_End_Job_The_Police.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_01_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_02_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_03_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_04_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_05_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Dead End",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_06_Dead_End_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_07_Dead_END_飛蘭.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Dead END",
+      "artist": "飛蘭",
+      "has_synced": false,
+      "path": "select/pl_08_Dead_END_飛蘭.txt"
+    }
+  ]
+}
